@@ -1,0 +1,14 @@
+F:\_02_Web_Devlopment\Happy_Projects\Happy_Blog_MVC\Snake\Snake\bin\Debug\net9.0\Snake.exe
+F:\_02_Web_Devlopment\Happy_Projects\Happy_Blog_MVC\Snake\Snake\bin\Debug\net9.0\Snake.deps.json
+F:\_02_Web_Devlopment\Happy_Projects\Happy_Blog_MVC\Snake\Snake\bin\Debug\net9.0\Snake.runtimeconfig.json
+F:\_02_Web_Devlopment\Happy_Projects\Happy_Blog_MVC\Snake\Snake\bin\Debug\net9.0\Snake.dll
+F:\_02_Web_Devlopment\Happy_Projects\Happy_Blog_MVC\Snake\Snake\bin\Debug\net9.0\Snake.pdb
+F:\_02_Web_Devlopment\Happy_Projects\Happy_Blog_MVC\Snake\Snake\obj\Debug\net9.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+F:\_02_Web_Devlopment\Happy_Projects\Happy_Blog_MVC\Snake\Snake\obj\Debug\net9.0\Snake.AssemblyInfoInputs.cache
+F:\_02_Web_Devlopment\Happy_Projects\Happy_Blog_MVC\Snake\Snake\obj\Debug\net9.0\Snake.AssemblyInfo.cs
+F:\_02_Web_Devlopment\Happy_Projects\Happy_Blog_MVC\Snake\Snake\obj\Debug\net9.0\Snake.csproj.CoreCompileInputs.cache
+F:\_02_Web_Devlopment\Happy_Projects\Happy_Blog_MVC\Snake\Snake\obj\Debug\net9.0\Snake.dll
+F:\_02_Web_Devlopment\Happy_Projects\Happy_Blog_MVC\Snake\Snake\obj\Debug\net9.0\refint\Snake.dll
+F:\_02_Web_Devlopment\Happy_Projects\Happy_Blog_MVC\Snake\Snake\obj\Debug\net9.0\Snake.pdb
+F:\_02_Web_Devlopment\Happy_Projects\Happy_Blog_MVC\Snake\Snake\obj\Debug\net9.0\Snake.genruntimeconfig.cache
+F:\_02_Web_Devlopment\Happy_Projects\Happy_Blog_MVC\Snake\Snake\obj\Debug\net9.0\ref\Snake.dll
